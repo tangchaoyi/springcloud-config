@@ -1,5 +1,5 @@
-server:
-  port: 9001
+#server:
+  #port: 9001
 
 config:
   info: "main branch,springcloud-config/config-dev.yml version=3"
